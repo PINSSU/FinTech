@@ -1,0 +1,6 @@
+#Build a Website using Amazon S3(Versioning) and AWS Amplify
+這一次的作業是要運用S3與Amplify服務進行網頁部署，過程中演示版本控制功能。
+這是第一次實作影片 https://youtu.be/Ia8bB8MUxpE
+但由於結尾時發現跑不出來，就想起漏了一個重要的步驟
+便是我的GITHUB裡並沒有名為index.html的page
+於是我補上後刷新了一次就完成了 https://youtu.be/CPro1SIYDwU
