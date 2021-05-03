@@ -1,4 +1,5 @@
 #Create a Database using Amazon RDS or Amazon DynamoDB
 第一步會先需要下載https://github.com/sefx5ever/SCU_Cloud_Computing_with_Fintech/blob/main/20210412_Cloud_Computing_Database_Services.ipynb 和 https://dev.mysql.com/downloads/file/?id=500617
-SQL Workbench我之前下載過了 但是不太會安裝pip install boto3,pip install awscli和pip install mysql-connector-python
+SQL Workbench我之前下載過了
+但是在開20210412_Cloud_Computing_Database_Services.ipynb的時候跑不出來
 這次作業會再補交完整錄屏影片。
